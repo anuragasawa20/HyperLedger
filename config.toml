@@ -1,0 +1,12 @@
+data-path="~/besudata"
+bootnodes=["enode://001@123:4567", "enode://002@123:4567", "enode://003@123:4567"]
+p2p-host="1.2.3.4"
+p2p-port=1234
+max-peers=42
+rpc-http-host="5.6.7.8"
+rpc-http-port=5678
+rpc-ws-host="9.10.11.12"
+rpc-ws-port=9101
+genesis-file="~/genesis.json"
+miner-enabled=true
+miner-coinbase="0xfe3b557e8fb62b89f4916b721be55ceb828dbd73"
